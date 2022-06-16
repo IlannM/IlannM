@@ -1,2 +1,2 @@
 # Ilan Mittelman
-C++, Swift, Python, JavaScipt.
+C++, Swift, Python, JavaScript.
